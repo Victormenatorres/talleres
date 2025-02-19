@@ -25,7 +25,7 @@ public class CuentaBancaria {
    }
 
    // Método toString
-   @Override
+  
    public String toString() {
        return "CuentaBancaria [Número: " + numeroCuenta + ", Saldo: " + saldo + ", Tipo: " + tipoCuenta + "]";
    }
